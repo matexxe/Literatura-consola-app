@@ -16,7 +16,7 @@ El usuario puede ver el autor, el idioma y el numero de descargas del libro busc
 
 ![img 2](https://github.com/matexxe/Literatura-consola-app/assets/158209261/a5d94db3-6895-48a4-bf1e-103640b4008c)
 
-Adicionalmente, se podran acceder a funciones como estadisticas de los libros descargados dentro de la api y tambien devuelve los libros mas descargado dentro
+Adicionalmente, se podran acceder a funciones como estadisticas de los libros descargados dentro de la api y tambien devuelve los libros mas descargados dentro
 de los registros capturados del usuario. Se pueden listar los libros registrados por idioma tambien. 
 
 ## Tecnologias utilizadas 
