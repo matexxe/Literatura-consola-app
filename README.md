@@ -2,14 +2,14 @@
 ![img-liter](https://github.com/matexxe/Literatura-consola-app/assets/158209261/ddff0cef-f872-4a5a-abd9-cc92c2097613)
 
 ## Literatura - Desafio de oracle next education de Alura Latam 
-En este challenge se nos pide consumir la api de libro, Gutendex. Nuestra aplicación debe tener las siguientes funciones:
+En este challenge se nos pide consumir la api de libros, Gutendex. Nuestra aplicación debe tener las siguientes funciones:
 1.	Buscar libro por titulo
 2.	Listar libros registrados
 3.	Listar autores registrados
 4.	Listar autores vivos en un determinado año
 5.	Listar libros por idioma
 
-### Demostracion 
+## Demostracion 
 ![img 1](https://github.com/matexxe/Literatura-consola-app/assets/158209261/46d1c5bd-c9ef-4c6e-93d8-06eeddc8a34e)
 
 El usuario puede ver el autor y el numero de descargas del libro buscado. Cada registro estara guardado en una base de datos.
@@ -19,7 +19,7 @@ El usuario puede ver el autor y el numero de descargas del libro buscado. Cada r
 Adicionalmente, se podran acceder a funciones como estadisticas de los libros descargados dentro de la api y tambien devuelve los libros mas descargado dentro
 de los registros capturados del el usuario. 
 
-# Tecnologias utilizadas 
+## Tecnologias utilizadas 
 - Spring Boot
 -	Gson
 - JPA (Java Persistence)
