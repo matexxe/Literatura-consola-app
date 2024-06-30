@@ -2,7 +2,7 @@
 ![img-liter](https://github.com/matexxe/Literatura-consola-app/assets/158209261/ddff0cef-f872-4a5a-abd9-cc92c2097613)
 
 ## Literatura - Desafio de Oracle Next Education de Alura Latam 📖 📚
-En este challenge se nos pide consumir la api de libros, Gutendex. Nuestra aplicación debe tener las siguientes funciones:
+En este challenge se nos pide consumir la api de libros, **Gutendex**. Nuestra aplicación debe tener las siguientes funciones:
 1.	Buscar libro por titulo
 2.	Listar libros registrados
 3.	Listar autores registrados
